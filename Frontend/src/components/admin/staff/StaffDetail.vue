@@ -41,7 +41,7 @@ export default {
 
         <div class="col-md-6">
             <div class="p-2">
-                <img src="https://inkythuatso.com/uploads/thumbnails/800/2023/03/6-anh-dai-dien-trang-inkythuatso-03-15-26-36.jpg" alt="" style="border-radius: 300px;">       
+                <img src="https://png.pngtree.com/png-vector/20190629/ourlarge/pngtree-office-work-user-icon-avatar-png-image_1527655.jpg" alt="" style="border-radius: 300px;">       
             </div>
         </div>
     </div>

@@ -3,6 +3,7 @@
     <div class="col-md-3"></div>
     <div class="col">
       <div class="login-form">
+		<img src="https://thuthuatnhanh.com/wp-content/uploads/2021/11/Hinh-anh-cuon-sach-mo-ra-dep-nhat.jpg" alt="" class="img-fluid">
         <h2 class="login-title">Đăng nhập bằng tài khoản nhân viên nhân viên</h2>
         <LoginForm @login="handleLogin" />
 		<div id="register-link">
